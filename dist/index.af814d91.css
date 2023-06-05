@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+}
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.banner{
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(rgb(30, 26, 48),rgb(47, 14, 54));
+  background-image: url(aa.20e4de61.jpg);
+  background-size: cover;
+  background-position: center;
+
+
+}
+.content{
+  width: 100%;
+  position: absolute;
+  
+  text-align: center;
+  color: white;
+
+font-size: large;
+font-weight: bold;
+
+}
+.cy {
+display: block;
+/*
+  Background
+*/
+
+background-size: 100px 100px;
+}
+#cy {
+width: 100vw;
+height: 85vh;
+}
+.modal-cy {
+width: inherit;
+height: 75vh;
+}
+div#input-container {
+display: flex;
+flex-flow: row wrap;
+align-items: center;
+justify-content: center;
+height: 15vh;
+}
+div#input-container > * {
+margin: 0 auto;
+}
+
+/*# sourceMappingURL=index.af814d91.css.map */
